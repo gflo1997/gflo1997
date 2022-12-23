@@ -9,7 +9,7 @@ I am a self-starter with a strong work ethic and the ability to collaborate effe
 *   🌍  I'm based in Orlando, Florida
 *   🖥️  See my portfolio at [www.gonzaloaflores.com](http://gonzaloaflores.com)
 *   ✉️  You can contact me at [me@gonzaloaflores.com](mailto:me@gonzaloaflores.com)
-*   ⚡  I practice Mixed Martial Arts### Skills 
+*   ⚡  I practice Mixed Martial Arts Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
