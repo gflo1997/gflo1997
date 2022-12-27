@@ -9,7 +9,7 @@ I am a self-starter with a strong work ethic and the ability to collaborate effe
 * 🌍  I'm based in Orlando, Florida
 * 🖥️  See my portfolio at [www.gonzaloaflores.com](http://gonzaloaflores.com)
 * ✉️  You can contact me at [me@gonzaloaflores.com](mailto:me@gonzaloaflores.com)
-* ⚡  I practice Mixed Martial Arts
+* ⚡  I practice Mixed Martial Arts 🥋, Boxing 🥊, and love Chess ♘
 
 ### Skills
 
