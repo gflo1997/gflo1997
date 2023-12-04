@@ -2,7 +2,6 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ======================================================================================================================================
 
 * 🌍  I'm based in Orlando, Florida
-* 🖥️  See my portfolio at [www.gonzaloaflores.com](http://gonzaloaflores.com)
 * ✉️  You can contact me at [me@gonzaloaflores.com](mailto:me@gonzaloaflores.com)
 * ⚡  I practice Mixed Martial Arts 🥋 and love Chess ♘
 
